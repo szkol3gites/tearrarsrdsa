@@ -26,7 +26,7 @@ To jest przykładowy akapit tekstowy.
 
     print("Hello, World!")
 
-`jutube <youtube.com>`_
+`jutube <https://youtube.com>`_
 
 1. Pierwszy element
 2. Drugi element
